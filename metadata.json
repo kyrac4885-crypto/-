@@ -1,0 +1,8 @@
+{
+  "name": "Cosmic Forest Particles（12.28）",
+  "description": "An interactive WebGL particle system simulating a cosmic forest with gesture-based interactions (Rain, Storm, Bloom).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
